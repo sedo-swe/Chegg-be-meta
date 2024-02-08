@@ -130,7 +130,7 @@ INSERT INTO employees
 
 -- Insert four projects into the projects table
 INSERT INTO projects
-  (project_name, budget, start_date)
+  (project_name, budget, start_date,)
   VALUES
     ('Build Database', 20000, '3/4/2020'),
     ('Plan christmas party', 500, '11/20/2020'),
